@@ -1,0 +1,5 @@
+train: D:\Internships\Syook\datasets\filtered_dataset\TRAIN
+val: D:\Internships\Syook\datasets\filtered_dataset\TEST
+
+nc: 1 # Number of classes
+names: ['person']  
